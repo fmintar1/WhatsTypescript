@@ -3,7 +3,7 @@ what is typescript?
 
 there is this language, [Typescript](https://www.typescriptlang.org).
 Microsoft maintains it, it's become a very intersting contender for the best new front end language.
-It's different in that it is is _strongly-typed_ but at it's code it is bascially Javascript.
+It's different in that it is is _strongly-typed_ but at it's code it is basically Javascript.
 
 You job is learn enough about Typescript to build a pretty simple app.
 
